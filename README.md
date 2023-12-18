@@ -11,7 +11,7 @@
 
 **Dreaming of code and crafting solutions, one line at a time**
 <br>
-That's me **Ayoub Banani** Tunisian a junior front-end developer trying to building a Scalable, Efficient and User-friendly web page to solve real problems.
+That's me **Ayoub Banani** Tunisian junior front-end developer trying to building a Scalable, Efficient and User-friendly web page to solve real problems.
 Currently pursuing a degree in Software Engineering, i'm passionate about front-end development and always striving to learn more. My skills include HTML, CSS, SQL, databases, algorithms, problem-solving, Java, Python, and C. When I'm not coding, you can find me playing football or reading up on the latest tech trends. Looking forward to connecting with other developers and creating some amazing projects together!
 </p>
 
